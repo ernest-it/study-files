@@ -29,9 +29,9 @@ and everything is exactly where you left it.
 | --- | --- | --- |
 | **Windows** | `study-files-Setup-<version>.exe` | Installer. Installs for your user only — no administrator prompt |
 | **Windows** | `study-files-<version>-portable.exe` | Single file. Run it from anywhere, including a USB stick |
-| **Linux** | `study-files-<version>.AppImage` | `chmod +x` it and run. Works on most distributions |
-| **Linux** | `study-files_<version>_amd64.deb` | Debian, Ubuntu, Mint |
-| **Linux** | `study-files-<version>.x86_64.rpm` | Fedora, RHEL, openSUSE |
+| **Linux** | `study-files-<version>-linux-x86_64.AppImage` | `chmod +x` it and run. Works on most distributions |
+| **Linux** | `study-files-<version>-linux-amd64.deb` | Debian, Ubuntu, Mint |
+| **Linux** | `study-files-<version>-linux-x86_64.rpm` | Fedora, RHEL, openSUSE |
 
 All builds are 64-bit. Get them from the [releases page](../../releases/latest).
 
